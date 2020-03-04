@@ -1,0 +1,1 @@
+Este arquivo .txt foi versionado pelo git :)
